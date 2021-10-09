@@ -1,0 +1,6 @@
+﻿  Lab6.cpp
+  Money.cpp
+C:\Users\andri\Desktop\Lab6\Lab6\Money.cpp(71,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\andri\Desktop\Lab6\Lab6\Money.cpp(72,16): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Generating Code...
+  Lab6.vcxproj -> C:\Users\andri\Desktop\Lab6\Debug\Lab6.exe
