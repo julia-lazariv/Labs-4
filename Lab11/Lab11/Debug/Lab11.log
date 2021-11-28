@@ -1,0 +1,5 @@
+﻿  Lab11.cpp
+C:\Users\andri\Desktop\Lab11\Lab11\D4.h(6,19): warning C4584: 'D4': base-class 'D1' is already a base-class of 'D2'
+C:\Users\andri\Desktop\Lab11\Lab11\D1.h(9): message : see declaration of 'D1'
+C:\Users\andri\Desktop\Lab11\Lab11\D2.h(5): message : see declaration of 'D2'
+  Lab11.vcxproj -> C:\Users\andri\Desktop\Lab11\Debug\Lab11.exe
