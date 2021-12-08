@@ -1,0 +1,5 @@
+﻿  Hyperbole.cpp
+C:\Users\andri\Desktop\Lab12\Lab12\Hyperbole.cpp(17,62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab12.cpp
+  Generating Code...
+  Lab12.vcxproj -> C:\Users\andri\Desktop\Lab12\Debug\Lab12.exe
