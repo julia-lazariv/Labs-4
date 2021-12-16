@@ -1,0 +1,4 @@
+﻿  Lab14.cpp
+C:\Users\andri\Desktop\Lab14\Lab14\Lab14.cpp(45,50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\andri\Desktop\Lab14\Lab14\Lab14.cpp(89,2): warning C4286: 'E': is caught by base class ('std::exception') on line 85
+  Lab14.vcxproj -> C:\Users\andri\Desktop\Lab14\Debug\Lab14.exe
